@@ -14,7 +14,7 @@
   <img align="center" alt="Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="Redis" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
-  <img align="right" alt="yoda" width="150" src="https://media.giphy.com/media/GnNtz3c1Ni8Ba/giphy.gif">
+  <img draggable="false" align="right" alt="yoda" width="150" src="https://media.giphy.com/media/GnNtz3c1Ni8Ba/giphy.gif">
 </div>
   
   ##
